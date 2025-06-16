@@ -11,7 +11,6 @@
 - [Business Impact and Recommendations](#business-impact-and-recommendations)
 - [Tech Stack](#tech-stack)
 - [Links to Dashboard and Code](#links)
-- [How to Run](#how-to-run)
 
 ---
 
