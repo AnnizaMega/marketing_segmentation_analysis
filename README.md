@@ -1,29 +1,29 @@
 # 📁 Optimizing Customer Engagement Through RFM Segmentation
 
-## 🔹 Project Title
-**Optimizing Customer Engagement Through RFM Segmentation**
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![RFM](https://img.shields.io/badge/RFM-Segmentation-brightgreen)
 
-## 🔹 Business Problem
-In the highly competitive retail and e-commerce industry, understanding customer behavior and optimizing marketing strategies is key to staying competitive.  
-The marketing team was struggling with **generic campaigns, poor engagement, and low loyalty**.  
-This project aims to apply RFM (Recency, Frequency, Monetary) segmentation to **categorize customers and enable more tailored, effective marketing strategies**.
-
-## 🔹 Dataset
-- **Source:** Customer transactions and profile data
-- **Size:** Large, multivariate dataset (with customer IDs, transactions, products, campaigns, and more)
-
-## 🔹 Tools Used
-- **Python:** pandas, scikit-learn, seaborn, matplotlib
-- **Business Intelligence:** Power BI, Tableau
-- **Other:** MySQL, Google Colab
-- **Techniques:** RFM scoring, segmentation, visualization, customer behavior analysis
-
-## 🔹 Timeline
-The project was completed in **about 2-3 months**, from data understanding and preparation to final delivery.
+##  Table of Contents
+- [Business Background](#business-background)
+- [Analysis Method](#analysis-method)
+- [Key Findings](#key-findings)
+- [Business Impact and Recommendations](#business-impact-and-recommendations)
+- [Tech Stack](#tech-stack)
+- [Links to Dashboard and Code](#links)
+- [How to Run](#how-to-run)
 
 ---
 
-## 🔹 Methodology (Concise)
+##  Business Background
+
+In the highly competitive retail and e-commerce industry, understanding customer behavior and optimizing marketing strategies is key to staying competitive.  
+The marketing team was struggling with **generic campaigns, poor engagement, and low loyalty**.  
+This project aims to apply **RFM (Recency, Frequency, Monetary)** segmentation to **categorize customers and enable more tailored, effective marketing strategies**.
+
+---
+
+##  Analysis Method
 
 1️⃣ **Data Understanding:**  
 Explored customer, transactions, and campaigns data.
@@ -33,7 +33,6 @@ Explored customer, transactions, and campaigns data.
 - Segmented them into groups (Champion, Loyal, At Risk, Hibernating, etc.).
 
 3️⃣ **Analysis:**  
-- Analyzed segments’ characteristics.
 - Derived actionable strategies for each group.
 
 4️⃣ **Visualization:**  
@@ -41,69 +40,47 @@ Explored customer, transactions, and campaigns data.
 
 ---
 
-## 🔹 Analysis Results (Key Findings)
+##  Key Findings
 
  **Champion:**  
-- Most valuable, frequently purchasing, and highest spending.
+Most valuable, frequently purchasing, and highest spending.
 
  **Loyal:**  
-- Frequent buyer with strong loyalty but not highest spending.
+Frequent buyer with strong loyalty but not highest spending.
 
  **At Risk:**  
-- May churn; large transactions previously but now inactive.
+May churn; large transactions previously but now inactive.
 
  **Hibernating:**  
-- Few transactions and low spending; might need re-engagement campaigns.
+Few transactions and low spending; might need re-engagement campaigns.
 
 ---
 
-## 🔹 Business Impact
+##  Business Impact and Recommendations
 
  The RFM segmentation allows the marketing team to:
-- Develop **tailored promotions and loyalty programs** for each group.
-- **Improve retention and loyalty** by focusing resources on high-risk and high-value segments.
-- **Boost overall revenue and customer satisfaction** through personalized strategies.
+
+- Develop tailored promotions and loyalty programs for each group.
+- Improve retention by focusing resources on high-risk segments.
+- Boost overall revenue and loyalty through personalized strategies.
 
 ---
 
-## 🔹 Technical Skills Highlighted
+##  Tech Stack
 
-- **Python (pandas, scikit-learn)** for data preparation, scoring, and segmentation
-- **Business Intelligence (Tableau, Power BI)** for visualization and stakeholder communication
-- **MySQL/Colab** for data storage and scripting
-- **Segmentation techniques (RFM)** and **customer behavior analysis**
-
----
-
-## 🔹 Dashboard & Source Links
-
-➥ [Tableau Dashboard – Marketing Segmentation](https://public.tableau.com/views/MarketingSegmentAnalysisDashboard/Dashboard1)  
-➥ [Python Code – Google Colab](https://colab.research.google.com/drive/14djZahqpannYTnSkDpUVPs9vEMeLO-Ft)  
-➥ [BRD – Detailed Documentation (Google Drive)](https://docs.google.com/document/d/1obLSTSbcdL8dG8-rh4dug8ScSdbSO8f3/edit)  
+- **Python:** pandas, scikit-learn, seaborn, matplotlib
+- **Business Intelligence:** Power BI, Tableau
+- **Other:** MySQL, Google Colab
+- **Techniques:** RFM scoring, segmentation, customer behavior analysis
 
 ---
 
-## 🔹 Recommendations
+##  Links to Dashboard and Code
 
-✅ **Targeted Campaigns:**  
-- Provide promotions and loyalty incentives to “Champion” and “Loyal” segments.  
-- Develop retention campaigns for “At Risk” and “Hibernating.”
+➥ [Tableau Dashboard – Marketing Segmentation](https://public.tableau.com/views/MarketingSegmentAnalysisDashboard/Dashboard1)
 
-✅ **Product Development:**  
-- Align products to segments’ preferences to maximize appeal.
+➥ [Python Code – Google Colab](https://colab.research.google.com/drive/14djZahqpannYTnSkDpUVPs9vEMeLO-Ft)
 
-✅ **Retention Strategy:**  
-- Provide personalized promotions and incentives to win back inactive segments.
+➥ [BRD – Detailed Documentation (Google Drive)](https://docs.google.com/document/d/1obLSTSbcdL8dG8-rh4dug8ScSdbSO8f3/edit)
 
 ---
-
-## 🔹 Conclusion
-
-Using RFM segments alongside behavioral data lets companies create **high-impact, personalized strategies**.  
-This approach results in **higher engagement, loyalty, and revenue growth** while optimizing marketing resources efficiently.
-
----
-
-## 🔹 Contact
-
-📧 [annizamegabianalyst@gmail.com]  
